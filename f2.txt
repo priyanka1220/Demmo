@@ -1,1 +1,1 @@
-f2 main
+f2 test
